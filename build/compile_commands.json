@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Users/Professional/source/MathcingLibraryCpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\yapd.dir\\lib.cpp.obj -c D:\\Users\\Professional\\source\\MathcingLibraryCpp\\lib.cpp",
+  "file": "D:/Users/Professional/source/MathcingLibraryCpp/lib.cpp",
+  "output": "CMakeFiles/yapd.dir/lib.cpp.obj"
+},
+{
+  "directory": "D:/Users/Professional/source/MathcingLibraryCpp/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\yapd.dir\\main.cpp.obj -c D:\\Users\\Professional\\source\\MathcingLibraryCpp\\main.cpp",
+  "file": "D:/Users/Professional/source/MathcingLibraryCpp/main.cpp",
+  "output": "CMakeFiles/yapd.dir/main.cpp.obj"
+}
+]
